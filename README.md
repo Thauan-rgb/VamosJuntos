@@ -439,6 +439,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 			[@Wendell8708](https://github.com/Wendell8708)
 			[@WNicolas Tavares](https://github.com/Otoque)
 			[@IsackOtavio](https://github.com/IsackOtavio)
+            [@thauan-rgb](https://github.com/Thauan-rgb)
 			[@ppmalta](https://github.com/ppmalta)
 			
 			
